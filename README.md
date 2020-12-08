@@ -1,0 +1,1 @@
+Exercicios aula de microsserviços utilizando python e filas com RABBITMQ.
